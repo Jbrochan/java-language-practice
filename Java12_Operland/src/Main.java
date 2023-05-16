@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args){
-        // 산술연산자
+        // 산술 연산자
         // 사친연산과 나머지를 구한다.
         // 더하기
         int a1 = 10 + 3;
@@ -22,7 +22,7 @@ public class Main {
         System.out.printf("a5 : %d\n", a5);
         System.out.printf("a6 : %f\n", a6);
 
-        // double 과 int 형 변수르 연산하면 double 형 결과가 도출된다.
+        // double 과 int 형 변수르 연산하면 double 형 결과가 도출된다.ㅅ
         double a7  = 10/3.0;
         double a8 = 10.0/3;
 
